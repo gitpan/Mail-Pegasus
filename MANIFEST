@@ -3,3 +3,4 @@ CHANGES
 MANIFEST
 Makefile.PL
 lib/Mail/Pegasus.pm
+t/use.t

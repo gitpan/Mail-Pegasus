@@ -9,10 +9,10 @@ use strict;
 
 use vars qw($VERSION);
 
-use IO::Scalar;
+#use IO::Scalar;
 use Mail::Internet;
 
-$VERSION=sprintf("%d.%02d", q$Revision: 1.5 $ =~ /(\d+)\.(\d+)/);
+$VERSION=sprintf("%d.%02d", q$Revision: 1.6 $ =~ /(\d+)\.(\d+)/);
 
 my $debug = 0;
 my $directory = undef;
